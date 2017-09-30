@@ -1,2 +1,2 @@
 # Coding-Problem
-Coding Problems C++
+My solutions to Kattis problems in C++.
